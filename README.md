@@ -1,6 +1,6 @@
 # reactor-kafka-learning
 
-Spring Reactor and Kafka
+Spring Boot, Reactor and Kafka
 
 ## Getting Started
 
